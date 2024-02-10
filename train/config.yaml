@@ -1,0 +1,8 @@
+
+path: C:\\Users\\zzy\\Desktop\\project\\train-yolov8\\prepare_data\\data  # dataset root dir
+train: train  # train images (relative to 'path')
+val: val  # val images (relative to 'path')
+
+# Classes
+names:
+  0: bicycle
